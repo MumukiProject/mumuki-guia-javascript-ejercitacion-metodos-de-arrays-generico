@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:playlistSinEscuchar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: playlistSinEscuchar
+  inspection: Uses:filter

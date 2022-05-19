@@ -1,0 +1,1 @@
+No olvides calcular previamente los precios finales de la lista de costos, tenés disponible la función`preciosFinales` para poder invocarla.
