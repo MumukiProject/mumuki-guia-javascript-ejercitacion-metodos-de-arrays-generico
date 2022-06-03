@@ -1,4 +1,4 @@
-Nuestra página de múscia favorita nos está recomendando canciones que ya escuchamos :sleepy:. ¿No podemos hacer algo?
+Nuestra página de múscia favorita nos está recomendando canciones que ya escuchamos, ¿no podemos hacer algo? :sleepy:
 
 > Usando `filter`, definí la función `playlistSinEscuchar` que tome una lista `playlist` con canciones sugeridas y otra lista `playlistEscuchada` con canciones que ya escuchamos y devuelva un array con aquellas canciones de la `playlist` que no están en `playlistEscuchada` :headphones:
 >
