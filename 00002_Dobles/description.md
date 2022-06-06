@@ -1,4 +1,4 @@
-> Usando map definí la función `dobles` que tome una lista de `numeros` y devuelva un nuevo array con cada valor multiplicado por dos
+> Usando map definí la función `dobles` que tome una lista de numeros y retorne un nuevo array con cada valor multiplicado por dos
 >
 > ```js
 > const numeros = [3, 7, 13, 99];
