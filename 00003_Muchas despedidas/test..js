@@ -7,3 +7,4 @@ it(`Si hacemos despedirAlGrupo(['Ro', 'Juli']) debería retornar ['Hasta luego R
   let resultado = despedirAlGrupo(['Ro', 'Juli'])
   assert.deepEqual(resultado, ['Hasta luego Ro', 
  'Hasta luego Juli'],`despedirAlGrupo debería retornar ['Hasta luego Ro', 'Hasta luego Juli'] pero fue ${resultado}`);
+})
