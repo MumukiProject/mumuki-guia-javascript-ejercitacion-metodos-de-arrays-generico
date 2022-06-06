@@ -1,4 +1,4 @@
-> Usando `filter`, definí la función `separandoPares` que tome una lista de `numeros` con números al azar y devuelva un nuevo array con los números pares. 
+> Usando `filter`, definí la función `separandoPares` que tome una lista de numeros con números y retorne un nuevo array con los números pares. 
 Y otra función `separandoImpares` que también tome una lista de números y devuelva un nuevo array con los números impares.
 >
 ```js
