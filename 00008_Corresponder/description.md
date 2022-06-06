@@ -3,8 +3,8 @@
 Por ejemplo: el producto que está en la posición **1** tiene un precio igual al elemento en la posición **1** del array `costos`
 >
 ```js
-const productos = ['celular', 'notebook', 'monitor' ];
-const costos = [12.5, 56, 98];
+let productos = ['celular', 'notebook', 'monitor' ];
+let costos = [12.5, 56, 98];
 ム corresponder(costos,productos)
  ['celular 22.6875', 'notebook 101.64', 'monitor 177.87']
 ```
