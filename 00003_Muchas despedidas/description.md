@@ -3,7 +3,7 @@
 ```javascript
 let nombres = ['Agus', 'Gaby', 'Lau', 'Lu'];
 >
-ム despedirAlGrupo(frases)
+ム despedirAlGrupo(nombres)
 ['Hasta luego Agus', 'Hasta luego Gaby', 'Hasta luego Lau', 'Hasta luego Lu']
 ```
 > En la `Biblioteca` está la función `despedir` lista para ser invocada, no hace falta que la definas nuevamente. :star_struck:
